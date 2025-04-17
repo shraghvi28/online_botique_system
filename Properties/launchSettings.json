@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "online_botique_system": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
